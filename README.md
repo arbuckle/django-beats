@@ -7,9 +7,9 @@ Young, hip internet users bounce from sites that don't use internet time.  1000.
 
 Turn your legacy times into times that will give your site a legacy:
 
-**Jan 4, 1:33 p.m.**   *Lame!!*
+**Jan 4, 1:33 p.m.**   *Lame...*
 
-**Jan 4: 856.beats**   *Awesome!!*
+**Jan 4: 606.beats**   *Awesome!!*
 
 
 ##Installation:
